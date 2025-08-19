@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://postimg.cc/v1csf2Th/image.png" alt="Markas Siber V Banner" />
+  <img src="https://postimg.cc/v1csf2Th/image.png"alt="Markas Siber V Banner" />
 </p>
 
 # Markas Siber V Team
