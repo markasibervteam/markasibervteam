@@ -6,8 +6,8 @@
 
 # Markas Siber V Team
 
-> **Digital repository berisi script, tools & eksperimen keamanan siber untuk edukasi dan riset.**  
-> Fokus pada **hacking, exploit, automation, dan OSINT**.
+> **Digital repository berisi script, tools & Gratis yang di bangun oleh markas siber v team (viasec0129).**  
+> Fokus pada Pengembangan script**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markassiberv&label=Profile%20views&color=0e75b6&style=flat" alt="markassiberv" /> </p>
 
