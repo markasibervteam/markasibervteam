@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://i.postimg.cc/v1csf2Th/image.png" alt="Markas Siber V Banner" />
+  <img src="https://j.top4top.io/p_3518f35b80.png" alt="Markas Siber V Banner" />
 </p>
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markasibervteam" alt="markasibervteam" /></a> </p>
 
