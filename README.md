@@ -2,11 +2,7 @@
   <img src="https://i.postimg.cc/v1csf2Th/image.png" alt="Markas Siber V Banner" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=markassiberv&theme=onedark&margin-w=10&margin-h=10" alt="markassiberv" />
-  </a>
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markassibervteam" alt="markassibervteam" /></a> </p>
 
 # Markas Siber V Team
 
