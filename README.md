@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://postimg.cc/v1csf2Th/image.png"alt="Markas Siber V Banner" />
+  <img src="https://i.postimg.cc/v1csf2Th/image.png" alt="Markas Siber V Banner" />
 </p>
 
 # Markas Siber V Team
@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
 </p>
 
-
 # GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=markasibervteam&show_icons=true&theme=transparent" />
@@ -39,5 +38,5 @@
 
 ---
 
-#  Motto
+# Motto
 > Hacking and Cyber for Knowledge, not Destruction.
