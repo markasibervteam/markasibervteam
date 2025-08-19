@@ -7,6 +7,8 @@
 > **Digital repository berisi script, tools & eksperimen keamanan siber untuk edukasi dan riset.**  
 > Fokus pada **hacking, exploit, automation, dan OSINT**.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=markassiberv&label=Profile%20views&color=0e75b6&style=flat" alt="markassiberv" /> </p>
+
 # Tech & Skills
 <p align="center">
   <a href="https://skillicons.dev">
