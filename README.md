@@ -1,27 +1,21 @@
 <p align="center">
-  <img src="https://i.postimg.cc/PvHZN741/image.png" alt="Markas Siber V Banner" />
+  <img src="https://postimg.cc/v1csf2Th/image.png" alt="Markas Siber V Banner" />
 </p>
 
-#  Markas Siber V Team
+# Markas Siber V Team
 
 > **Digital repository berisi script, tools & eksperimen keamanan siber untuk edukasi dan riset.**  
 > Fokus pada **hacking, exploit, automation, dan OSINT**.
 
----
-
-##  Tech & Skills
+# Tech & Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,github,kali,linux,redhat,py" />
   </a>
 </p>
 
----
-
-##  Tools & Favorite Stack
+# Tools & Favorite Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Future%20Learn-000000?style=for-the-badge&logo=futurelearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" />
   <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
@@ -32,21 +26,18 @@
   <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
 </p>
 
----
 
-##  GitHub Stats
+# GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=markasibervteam&show_icons=true&theme=transparent" />
 </p>
 
----
-
-##  Contact
+# Contact
 - Owner : [@viasec0129](https://t.me/viasec0129)  
 - Grup : [Markas Siber V](https://t.me/markassiberv)  
 - Link Lengkap : [Linktree](https://linktr.ee/linklengkapkami)
 
 ---
 
-###  Motto
-> *Hacking and Cyber for Knowledge, not Destruction.*
+#  Motto
+> Hacking and Cyber for Knowledge, not Destruction.
