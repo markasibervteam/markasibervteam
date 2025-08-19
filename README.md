@@ -12,6 +12,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markassiberv&label=Profile%20views&color=0e75b6&style=flat" alt="markassiberv" /> </p>
 
+jangan cuman di liat Mulu folow github nya agar dapat info update terbaru !
+
 # Tech & Skills
 <p align="center">
   <a href="https://skillicons.dev">
