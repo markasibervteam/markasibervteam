@@ -2,14 +2,14 @@
   <img src="https://i.postimg.cc/v1csf2Th/image.png" alt="Markas Siber V Banner" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markassiberv" alt="markassiberv" /></a> </p>
-
 # Markas Siber V Team
 
 > **Digital repository berisi script, tools & eksperimen keamanan siber untuk edukasi dan riset.**  
 > Fokus pada **hacking, exploit, automation, dan OSINT**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markassiberv&label=Profile%20views&color=0e75b6&style=flat" alt="markassiberv" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markassiberv" alt="markassiberv" /></a> </p>
 
 # Tech & Skills
 <p align="center">
