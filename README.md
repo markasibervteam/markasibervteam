@@ -2,8 +2,6 @@
   <img src="https://h.top4top.io/p_3519ytf3c0.jpg" alt="Markas Siber V Banner" />
 </p>
 
-### Hi, We Are From The Troops markas siber v (viasec0129)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markasibervteam" alt="markasibervteam" /></a> </p>
 
 <p align="center">
