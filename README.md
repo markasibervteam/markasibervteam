@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markasibervteam" alt="markasibervteam" /></a> </p>
 
 <p align="center">
-  <img src="https://b.top4top.io/p_3519y0x0f0.jpg" alt="Markas Siber V Banner" />
+  <img src="https://e.top4top.io/p_35197usiy0.jpg" alt="Markas Siber V Banner" />
 </p>
 
 ### tentang github markas siber v team
