@@ -1,5 +1,3 @@
-![High Score](https://img.shields.io/badge/High%20Score-9999-black?style=for-the-badge&logo=superuser)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Initializing+Profile...;Welcome+to+Markas+Siber+v;Github+viasec0129)](https://git.io/typing-svg)
 
 <p align="center">
