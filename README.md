@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%" height="200">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Wake+Up...;The+Matrix+Has+You...;Follow+the+White+Rabbit.)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Initializing+Profile...;Welcome+to+Markas+Siber+v;Github+viasec0129)](https://git.io/typing-svg)
 
