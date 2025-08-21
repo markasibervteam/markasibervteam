@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Access+Granted...;Welcome+to+my+GitHub;Initializing+Markas+Siber...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Initializing+Profile...;Welcome+to+Markas+Siber;Cyber+is+Art+🕶️)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://h.top4top.io/p_3519ytf3c0.jpg" alt="Markas Siber V Banner" />
