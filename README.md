@@ -1,4 +1,4 @@
-[![owner contact](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/viasec0129)
+<img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="200">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Initializing+Profile...;Welcome+to+Markas+Siber+v;Github+viasec0129)](https://git.io/typing-svg)
 
