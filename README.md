@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="100%" height="200">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Access+Granted...;Welcome+to+my+GitHub;Initializing+Markas+Siber...)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://h.top4top.io/p_3519ytf3c0.jpg" alt="Markas Siber V Banner" />
