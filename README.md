@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?markassibervteam=markassibervteam&show_icons=true&theme=graywhite&hide_border=true)
+<img src="https://media.giphy.com/media/KG4PMQ0jyimywxNt8i/giphy.gif" width="500"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Initializing+Profile...;Welcome+to+Markas+Siber+v;Github+viasec0129)](https://git.io/typing-svg)
 
