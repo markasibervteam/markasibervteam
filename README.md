@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="100%" height="200">
+
 <p align="center">
   <img src="https://h.top4top.io/p_3519ytf3c0.jpg" alt="Markas Siber V Banner" />
 </p>
