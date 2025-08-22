@@ -18,7 +18,8 @@
 
 > github ını berisi tools yang di bangun oleh markas siber v  (viasec0129). 
 
-![Hits](https://hits.sh/github.com/markasibervteam/markasibervteam.svg?style=social&label=Profile%20Views)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=markassiberv&label=Profile%20views&color=0e75b6&style=flat" alt="markassiberv" /> </p>
 
 jangan cuman di liat Mulu folow github nya agar dapat info update terbaru !
 
