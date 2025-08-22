@@ -46,10 +46,19 @@ jangan cuman di liat Mulu folow github nya agar dapat info update terbaru !
   <img src="https://github-readme-stats.vercel.app/api?username=markasibervteam&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" />
 </p>
 
-# Contact
-- Owner : [@viasec0129](https://t.me/viasec0129)  
-- Grup : [Markas Siber V](https://t.me/markassiberv)  
-- Link Lengkap : [Linktree](https://linktr.ee/linklengkapkami)
+# 📞 Contact
+
+<p align="center">
+  <a href="https://t.me/viasec0129">
+    <img src="https://img.shields.io/badge/Owner-@viasec0129-black?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://t.me/markassiberv">
+    <img src="https://img.shields.io/badge/Grup-MARKAS_SIBER_V-black?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://linktr.ee/linklengkapkami">
+    <img src="https://img.shields.io/badge/Linktree-Full_Link-black?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+</p>
 
 ---
 
