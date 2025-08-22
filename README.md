@@ -8,7 +8,7 @@
 
 ### Hi, we are from the troops markas siber v (viasec0129)
 
-<img src="https://github-profile-trophy.vercel.app/?username=markasibervteam&theme=chalk&no-frame=true&no-bg=true" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markasibervteam" alt="markasibervteam" /></a> </p>
 
 <p align="center">
   <img src="https://e.top4top.io/p_35197usiy0.jpg" alt="Markas Siber V Banner" />
@@ -46,8 +46,6 @@ jangan cuman di liat Mulu folow github nya agar dapat info update terbaru !
   <img src="https://github-readme-stats.vercel.app/api?username=markasibervteam&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" />
 </p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=markasibervteam&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
-
 # 📞 Contact
 
 <p align="center">
@@ -67,4 +65,4 @@ jangan cuman di liat Mulu folow github nya agar dapat info update terbaru !
 # Motto
 > Hacking and Cyber for Knowledge, not Destruction.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markasibervteam&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+
