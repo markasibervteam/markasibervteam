@@ -43,7 +43,7 @@ jangan cuman di liat Mulu folow github nya agar dapat info update terbaru !
 
 # GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markasibervteam&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=markasibervteam&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" />
 </p>
 
 # Contact
