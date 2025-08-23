@@ -10,7 +10,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=markasibervteam&theme=onestar&no-frame=true&no-bg=true&title=Stars,Followers,Repositories,Commits,PullRequest,Issues" alt="markasibervteam" />
+    <img src="https://github-profile-trophy.vercel.app/?username=markasibervteam&no-frame=true&no-bg=true&theme=onestar&title=Stars,Followers,Repositories,Commits,PullRequest,Issues" alt="markasibervteam" />
   </a> 
 </p>
 
@@ -30,16 +30,16 @@
 
 ---
 
-# 🛠️ Tech & Skills
+# Tech & Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,github,linux,py" />
+    <img src="https://skillicons.dev/icons?i=bash,github,linux,py&theme=dark" />
   </a>
 </p>
 
 ---
 
-# ⚡ Tools & Favorite Stack
+#  Tools & Favorite Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Brave-000000?style=for-the-badge&logo=Brave&logoColor=white" />
   <img src="https://img.shields.io/badge/Tor_Browser-000000?style=for-the-badge&logo=Tor-Browser&logoColor=white" />
@@ -53,14 +53,14 @@
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=markasibervteam&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" />
 </p>
 
 ---
 
-# 📞 Contact
+#  Contact
 
 <p align="center">
   <a href="https://t.me/viasec0129">
@@ -76,5 +76,7 @@
 
 ---
 
-# ⚔️ Motto
+#  Motto
 > **Hacking and Cyber for Knowledge, not Destruction.**
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=footer&fontColor=ffffff)
