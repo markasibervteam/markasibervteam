@@ -69,8 +69,8 @@
   <a href="https://t.me/markassiberv">
     <img src="https://img.shields.io/badge/Grup-MARKAS_SIBER_V-000000?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://linktr.ee/linklengkapkami">
-    <img src="https://img.shields.io/badge/Linktree-Full_Link-000000?style=for-the-badge&logo=linktree&logoColor=white" />
+<a href="https://9o1kc.mssg.me/">
+    <img src="https://img.shields.io/badge/Mssg.me-Full_Link-000000?style=for-the-badge&logo=internetexplorer&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@latest_news_team.markasv">
     <img src="https://img.shields.io/badge/TikTok-@latest_news_team.markasv-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
